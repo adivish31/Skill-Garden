@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Skill Garden
 
 A comprehensive online learning platform that connects educators and students, enabling course creation, enrollment, and progress tracking.
